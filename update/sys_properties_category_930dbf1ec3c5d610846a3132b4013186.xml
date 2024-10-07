@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>NeedIt Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-07 11:55:01</sys_created_on>
+        <sys_id>930dbf1ec3c5d610846a3132b4013186</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_930dbf1ec3c5d610846a3132b4013186</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-07 11:55:01</sys_updated_on>
+        <title><![CDATA[<p><img title="Képernyőkép 2024-08-14 101309.png" src="/sys_attachment.do?sys_id&#61;ed4db39ac385d610846a3132b40131e6" alt="" width="350" height="100" /></p>
+<p> </p>
+<p>Val<strong>aami v</strong>alami , és <em>a val</em>ami a valami : </p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=930dbf1ec3c5d610846a3132b4013186"/>
+</record_update>
